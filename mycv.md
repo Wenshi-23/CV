@@ -27,7 +27,7 @@
 - 📜 Review protocols, eCRF, SAP, TLF shells, TLG output, and CSR
 - 📦 Prepare submission packages
 
-### 🧑‍💻 **Senior Manager**
+### 🧑‍💻 **Senior Manager / Statistian**
 **Shanghai Besstudy Medical Technology Co., Ltd., Shanghai, China | Aug 2019 – Feb 2022**
 - 🏗️ Drive programming activities to ensure quality and timely deliverables
 - 🧑‍🏫 Provide guidance, training, performance reviews, and recruit new team members
